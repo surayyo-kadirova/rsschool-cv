@@ -66,6 +66,7 @@ I am dedicated to learning and growing, with a desire to contribute meaningfully
 - **Uzbek**: Native proficiency
 
 ## Certification
+- CS50 Introduction to Databases with SQL - Harvard University (Jun 2024)
 - Cyber Security training on Online Safety - CS VISOR (Feb 2024)
 - CS50 Understanding Technology - Harvard University (Nov 2023)
 - Introduction to AI, Robotics, and Data - Global AI Hub (Jul 2023)
