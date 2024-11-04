@@ -75,8 +75,8 @@ I am dedicated to learning and growing, with a desire to contribute meaningfully
 
 ## Code Examples
 - **.Net Projects**: 
-  - *Student Managent System* [Link to GitHub Repo](https://github.com/surayyo-kadirova/Student-Management-System.git)
-  - *HotelFinder* [Link to GitHub Repo](https://github.com/surayyo-kadirova/HotelFinder.git)
+  - *Student Managent System*: [Link to GitHub Repo](https://github.com/surayyo-kadirova/Student-Management-System.git)
+  - *HotelFinder*: [Link to GitHub Repo](https://github.com/surayyo-kadirova/HotelFinder.git)
 - **Angular Project**: 
-  - *Student Managent System*[Link to GitHub Repo](https://github.com/surayyo-kadirova/SMS.git)
+  - *Student Managent System*: [Link to GitHub Repo](https://github.com/surayyo-kadirova/SMS.git)
   
