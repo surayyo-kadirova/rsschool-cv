@@ -72,3 +72,10 @@ I am dedicated to learning and growing, with a desire to contribute meaningfully
 - Introduction to Software Development - Patika.dev (Jul 2023)
 - Automotive Summer Camp Achievement Certificate - OSD (Jul 2023)
 
+## Code Examples
+- **.Net Projects**: 
+  - *Student Managent System* [Link to GitHub Repo](https://github.com/surayyo-kadirova/Student-Management-System.git)
+  - *HotelFinder* [Link to GitHub Repo](https://github.com/surayyo-kadirova/HotelFinder.git)
+- **Angular Project**: 
+  - *Student Managent System*[Link to GitHub Repo](https://github.com/surayyo-kadirova/SMS.git)
+  
